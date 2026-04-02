@@ -55,6 +55,7 @@ router.post('/apply', (req, res) => {
   });
 });
 });
+});
 
 // Admin: Create new discount code
 router.post('/admin/create', (req, res) => {
